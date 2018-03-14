@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Hotel-SPA "Posada Bonita"</string>
+    <string name="comment">Comentario</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="log_in">Iniciar Sesion</string>
+    <string name="name_hotel">Hotel-Spa Posada Bonita</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Registrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_thanks">¡¡Gracias por su Preferencia!!</string>
+    <string name="text_download">Descarga tu comprobante de reservación</string>
+    <string name="pdf">PDF</string>
+    <string name="send">Enviar</string>
+    <string name="title_help">Modulo de Ayuda</string>
+    <string name="text_reservation_help">*Selecciona en el menú "Reservaciones" \n*Selecciona tu habitación/servicio \n*Llena los datos de la reservación \n*Descarga tu comprobante de reservación"</string>
+    <string name="text_catalogue_help">*Selecciona en el menú "Habitaciones"\n o "Servicios"\n*Visualiza el catalogo\n*Seleccianar para más información \n*Para reservar, da click sobre el botón \n"Reservar"</string>
+    <string name="text_cancel_help">*Para cancelar tu reservación llama al \nHotel con una anticipación de 12 hrs\n*Puedes ir directamente al hotel para \ncancelar tu reservación</string>
+    <string name="title_2_cancel_help">¿Cancelar una Reservación?</string>
+    <string name="title_catalogue_help">¿Cómo ver los Catalogos</string>
+    <string name="title_2_reservations_help">¿Cómo hacer rervaciones?</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="prize">Precio</string>
+    <string name="title_room">Habitación Suite</string>
+    <string name="text_button_next"><![CDATA[-->]]></string>
+    <string name="text_button_previuos"><![CDATA[<--]]></string>
+    <string name="title_description_room">Descripción</string>
+    <string name="description_room_suite">*Posee una cama King Size\n*Tiene modbiliario especial\n*Tiene sala de estar\n*Posee un cuarto de baño grande</string>
+    <string name="title_prize">Precio</string>
+    <string name="prize_room_suite">$1,500.00</string>
+    <string name="edit_client">Editar Cliente</string>
+    <string name="title_edit_name">Nombre</string>
+    <string name="text_title_edit_email">Email</string>
+    <string name="text_button_save">Guardar</string>
+    <string name="text_name">Escribe tu nombre</string>
+    <string name="text_email">Escribe tu email</string>
+    <string name="title_client">Cliente</string>
+    <string name="txt_name_client">Nombre Cliente</string>
+    <string name="title_type_room">Tipo de Habitación:</string>
+    <string name="out_title_reservation">Salida</string>
+    <string name="total_reservation_title">Total</string>
+    <string name="button_reservation">Reservar</string>
+    <string name="txt_name_room">Nombre</string>
+    <string name="title_management_clients">Gestión de Clientes</string>
+    <string name="title_text_name_client">Nombre Cliente</string>
+    <string name="title_email_client">Email</string>
+    <string name="title_client_total_reservations">Reservaciones</string>
+    <string name="title_op_client">Operaciones</string>
+    <string name="name_client_test">Ricardo Gonzalez</string>
+    <string name="id_client_test">C-01</string>
+    <string name="email_client_test">riqg12@gmail.com</string>
+    <string name="description_button_edit_client">Editar</string>
+    <string name="text_edit_client">Edit</string>
+    <string name="text_delete_client">Delete</string>
+    <string name="hint_text_comments">Escribe tu comentario</string>
+    <string name="text_button_reservation">Reservar</string>
+    <string name="title_comments">Comentarios de la Aplicación</string>
+    <string name="action_login">Login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_comment">Comentario</string>
+    <string name="name_hotel_spa">Hotel Posada Bonita</string>
+    <string name="email_hotel_spa">posadabonita@gmail.com</string>
+    <string name="title_add">Add</string>
+    <string name="title_save">Save</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_comments_nav">Danos tu opinión</string>
+    <string name="title_help_nav">Dudas</string>
+    <string name="title_maps_nav">Ubicación</string>
+    <string name="map_description">Hotel - Spa Posada Bonita</string>
+    <string name="error_youtube">Error al inicilizar Youtube</string>
+</resources>
